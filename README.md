@@ -3,3 +3,4 @@
 2. Submitting videos
 3. comments
 4. share
+5. Chatting
