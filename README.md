@@ -1,5 +1,5 @@
 # TikTok
 1. Creating content
 2. Submitting videos
-funny comments
-share
+3. comments
+4. share
